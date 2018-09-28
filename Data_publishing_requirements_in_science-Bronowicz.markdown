@@ -103,7 +103,7 @@ besteht.
 
 **Beispiele für DOI's**
 Erste Teil | Zweiter Teil
------------|--------------
+---------- | -------------
  10.1594/ | PANGAEA.886808 
  10.1594/ | PANGAEA.891154 
 
