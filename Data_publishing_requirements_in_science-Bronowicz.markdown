@@ -106,8 +106,9 @@ Präfix für einen DOI ist "10" und unterscheidet es von anderen Handle System-I
 besteht.
 
 **Beispiele für DOI's**
-Präfix  Identifikationsnummer (10) und Verlagsnummer (1594) | Suffix Publisher mit ID des Objekts 
----------- | --------------
+
+Präfix  Identifikationsnummer (10) und Verlagsnummer (1594) | Suffix Publisher mit ID des Objekts
+------------ | -------------
 10.1594/ | PANGAEA.886808 
 10.1594/ | PANGAEA.891154 
 
