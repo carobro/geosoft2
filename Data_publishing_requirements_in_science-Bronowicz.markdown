@@ -93,7 +93,7 @@ Wissenschaftliches Fehlverhalten liegt vor, wenn bewusst oder grob fahrlässig F
 - 4 Abs. 1 BDSG: Das Bundes- und/oder Landesdatenschutzgesetz greift bei Studien, in denen personenbezogene Daten erhoben werden. Für die Speicherung und Weiterverwendung personenbezogener Daten ist eine Einverständniserklärung der Betroffenen einzuholen 
 - 3a BDSG Die Daten müssen so anonymisiert werden, dass keine Rückschlüsse auf einzelne Personen möglich sind. 
 
-# Persistent Identifier
+## Persistent Identifier
 Beispiele: URN's, DOI's, ARK (Archival Resource Key)
 **DOI'S - Digital Object Identifiers** 
 Ein DOI ist eine dauerhafte, eindeutige digitale Kennung eines Objekts. Informationen über ein digitales Objekt können sich im Laufe der Zeit ändern, einschließlich der Frage, wo es zu finden ist und wem es gehört, aber seine DOI wird sich nicht ändern.
