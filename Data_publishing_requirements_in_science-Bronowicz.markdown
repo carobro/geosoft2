@@ -44,8 +44,8 @@ Metadaten erfüllen den Zweck der Dokumentation nach einem vorgegebenen Schema. 
 - Datenblätter werden von einer Vielzahl von Zeitschriften unterstützt, die ausschließlich für die Veröffentlichung von Datenblättern vorgesehen sind, während andere eine Reihe von Artikeltypen einschließlich Daten Papiere veröffentlichen.
 - Journal Research Data (JoRD) -Projekt entwickelte Richtlinien zum Austausch von Daten für Modelljournale, durch den Vergleichen zwischen den quantitativen Informationen aus der Analyse vorhandener Richtlinien für Journaldaten und den qualitativen Daten von Stakeholdern. 
 Beispiele für Datenjournale:
-Geoscience Data Journal - http://rmets.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2049-6060/
-Scientific Data - http://www.nature.com/scientificdata
+- Geoscience Data Journal - http://rmets.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2049-6060/
+- Scientific Data - http://www.nature.com/scientificdata
 
 ![Vergleichstabelle](https://github.com/carobro/geosoft2/blob/master/Datajournale_Requirements.JPG?raw=true)
 
