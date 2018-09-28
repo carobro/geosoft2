@@ -102,15 +102,15 @@ Präfix für einen DOI ist "10" und unterscheidet es von anderen Handle System-I
 besteht.
 
 **Beispiele für DOI's**
-Erste Teil | Zweiter Teil
+Erster Teil | Zweiter Teil
 ---------- | -------------
  10.1594/ | PANGAEA.886808 
  10.1594/ | PANGAEA.891154 
 
-First Header | Second Header
+Erster Teil | Zweiter Teil
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+10.1594/ | PANGAEA.886808
+10.1594/ | PANGAEA.891154
  
  Präfix  Identifikationsnummer (10) und Verlagsnummer (1594) | Suffix Publisher mit ID des Objekts 
 
