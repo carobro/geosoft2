@@ -103,11 +103,10 @@ besteht.
 
 **Beispiele für DOI's**
 
-Erster Teil | Zweiter Teil
+Präfix  Identifikationsnummer (10) und Verlagsnummer (1594) | Suffix Publisher mit ID des Objekts 
 ------------ | -------------
 10.1594/ | PANGAEA.886808
 10.1594/ | PANGAEA.891154
-Präfix  Identifikationsnummer (10) und Verlagsnummer (1594) | Suffix Publisher mit ID des Objekts 
 
 
 https://doi.org/10.1371/journal.pbio.0020449 mit weiterer Spezifikation: 
