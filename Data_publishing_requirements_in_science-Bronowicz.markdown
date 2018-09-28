@@ -113,7 +113,6 @@ Präfix  Identifikationsnummer (10) und Verlagsnummer (1594) | Suffix Publisher 
 10.1594/ | PANGAEA.891154 
 
 https://doi.org/10.1371/journal.pbio.0020449 mit weiterer Spezifikation: 
-
 https://doi.org/10.1371/journal.pbio.0020449.g001 -> in diesem Beispiel wird die Abbildung durch die Endung .g001 identifiziert
 
 
