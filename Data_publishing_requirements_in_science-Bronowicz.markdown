@@ -1,7 +1,7 @@
 # Handout - Data publishing requirements in science
 Carolin Bronowicz
 
-## Forschungsdaten - Definition? [^fußnote]
+## Forschungsdaten - Definition?[^1]
 Keine festgelegte Definition, denn wie Forschungsdaten letztlich aussehen, hängt von der jeweiligen Disziplin ab. Formate sind auch nicht bestimmt festgelegt. Forschungsdaten können z.B. Mess-, Erhebungs- und Beobachtungsdaten sowie audio-visuelle Materialien, aber auch Softwareentwicklungen sein. Sie entstehen während des Forschungsprozesses und sind die Grundlage für wissenschaftliche Ergebnisse.
 
 **Vorteile von einer Publikation von Forschungsdaten?**
@@ -191,7 +191,7 @@ Orientiert sich an den Regeln der Deutschen Forschungsgemeinschaft guter wissens
 - Regel 10. Sei ein Booster für Data Science
 
 # Verweise
-[^fußnote]: Regeln guter wissenschaftlicher Praxis der Westfälischen Wilhelms-Universität: https://www.uni-muenster.de/imperia/md/content/wwu/senat/pdf/kodex.pdf
+[^1]: Regeln guter wissenschaftlicher Praxis der Westfälischen Wilhelms-Universität: https://www.uni-muenster.de/imperia/md/content/wwu/senat/pdf/kodex.pdf
 
 (2017). Retrieved from https://www.uni-muenster.de/imperia/md/content/forschungsdaten/2017-08-01_wwu_fdm_policy.pdf: https://www.uni-muenster.de/imperia/md/content/forschungsdaten/2017-08-01_wwu_fdm_policy.pdf
 
